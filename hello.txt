@@ -1,8 +1,4 @@
 welcome to git experiment repo
-<<<<<<< HEAD
-change some this doc line and commit.
 this line is added by Jaswanth from JaswanthBrn Branch....
-=======
-change some this doc line and commit..
 this is added from the browser
->>>>>>> cf07dcab6394d81398eeb49a6e4f3a3dab66a24c
+
